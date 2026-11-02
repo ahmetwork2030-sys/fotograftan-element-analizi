@@ -1,0 +1,7 @@
+*.keras
+__pycache__/
+.ipynb_checkpoints/
+veri/
+ham/
+*.tar.gz
+*.zip
